@@ -20,13 +20,14 @@ some samples:
 
 <img  src="https://github.com/alighofrani95/wild_face_detection/blob/master/https://github.com/alighofrani95/wild_face_detection/blob/master/photo_2018-12-13_10-15-10.jpg" alt="logo" style="max-width:30%;"/>
 
+<img  src="https://github.com/alighofrani95/wild_face_detection/blob/master/https://github.com/alighofrani95/wild_face_detection/blob/master/photo_2018-12-13_10-15-10.jpg" alt="logo" style="max-width:30%;"/>
 
 <img  src="https://github.com/alighofrani95/wild_face_detection/blob/master/https://github.com/alighofrani95/wild_face_detection/blob/master/c-men-squad-london.jpg" alt="logo" style="max-width:30%;"/>
 
-
-<img  src="https://github.com/alighofrani95/wild_face_detection/blob/master/https://github.com/alighofrani95/wild_face_detection/blob/master/photo_2018-12-13_10-15-10.jpg" alt="logo" style="max-width:30%;"/>
 
 
 without face tests:
 
 <img  src="https://github.com/alighofrani95/wild_face_detection/blob/master/https://github.com/alighofrani95/wild_face_detection/blob/master/ANC_BRRR_NEW_PS_no_shadow_grande.jpg" alt="logo" style="max-width:30%;"/>
+
+
