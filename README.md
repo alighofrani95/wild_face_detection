@@ -7,8 +7,7 @@ connect us : engalighofrani@gmail.com
 
 some samples:
 
-
-<img  src="https://github.com/alighofrani95/wild_face_detection/blob/master/falcons.jpg" alt="logo" style="max-width:30%;"/>
+<img  src="https://github.com/alighofrani95/wild_face_detection/blob/master/oscar.jpg" alt="logo" style="max-width:30%;"/>
 
 <img  src="https://github.com/alighofrani95/wild_face_detection/blob/master/amber-rashidi-and-vikki-crook-data.jpg" alt="logo" style="max-width:30%;"/>
 
@@ -19,4 +18,5 @@ some samples:
 <img  src="https://github.com/alighofrani95/wild_face_detection/blob/master/image-170048-galleryV9-hjmg-170048.jpg" alt="logo" style="max-width:30%;"/>
 
 
-<img  src="https://github.com/alighofrani95/wild_face_detection/blob/master/oscar.jpg" alt="logo" style="max-width:30%;"/>
+<img  src="https://github.com/alighofrani95/wild_face_detection/blob/master/https://github.com/alighofrani95/wild_face_detection/blob/master/photo_2018-12-13_10-15-15.jpg" alt="logo" style="max-width:30%;"/>
+
